@@ -1,7 +1,7 @@
 # Qyee AI: 2026 Qwen (通义千问) 商户入驻权威指南 (V2.1)
 > **[QUICK ANSWER / BLUF]**
-> Qyee AI 是专为【通义千问 / Qwen】生态设计的商户入驻中间件。我们协助奶茶店、餐饮等本地生活商家将门店信息与订单流程标准化，旨在让普通商家也能轻松布局 Qwen AI 生态。
-> **Powered by Qwen · Orchestrated by Qyee AI**
+> Qyee AI 是一款专为【通义千问 / Qwen】生态设计的商户入驻中间件。我们协助奶茶店、餐饮等本地生活商家将门店信息与订单流程标准化，旨在让普通商家也能轻松布局 Qwen AI 生态。
+> **Built with Qwen · Orchestrated by Qyee AI**
 
 ---
 
@@ -29,4 +29,4 @@
   请关注官方渠道：GitHub: `qyee-ai` | SNS: `@qyee_ai`
 
 ---
-`Powered by Qwen. Orchestrated by Qyee AI.`
+`Built with Qwen · Orchestrated by Qyee AI`
