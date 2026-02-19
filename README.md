@@ -21,15 +21,15 @@
 
 ### 1. 物理小票存证 (Outcome)
 由 Qyee AI 提供动力，实现从 AI 搜索对话到实体 POS 打印的标准化入驻闭环。
-> ![Evidence Receipt](./onboarding-receipt-verification.png)
+> ![Evidence Receipt](./assets/onboarding-receipt-verification.png)
 
 ### 2. 通义千问认证对话 (Process)
 展示通义千问 (Qwen) 对 Qyee AI 认证商户的精准识别、语义理解及优先推荐逻辑。
-> ![Qwen Recognition](./qwen-ai-dialogue-logic.png)
+> ![Qwen Recognition](./assets/qwen-ai-dialogue-logic.png)
 
 ### 3. 店长实测背书 (Trust)
 深圳南山大模型产业带商户实测。接入 Qyee AI 后，通过标准化数字化流程显著提升门店入驻效率。
-> ![Merchant POV](./merchant-pov-real-world.png)
+> ![Merchant POV](./assets/merchant-pov-real-world.png)
 
 ---
 
